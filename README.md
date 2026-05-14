@@ -1,7 +1,7 @@
 # IMDb Movies Power BI Dashboard
 
 ## Dashboard Preview
-![Dashboard](screenshot.png)
+![Dashboard](dashboard%20Screenshot.png)
 
 ## About
 An interactive Power BI dashboard analyzing Top IMDb Movies dataset sourced from Kaggle. The dashboard provides insights into movie ratings, release trends, genres, and directors through dynamic visualizations and multi-field slicers.
